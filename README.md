@@ -38,7 +38,7 @@ Sin comillas
 
 ### 4. Ejecuta el agente
 
-python agente.py
+python agent.py
 
 Ingresa los datos del crédito en formato JSON:
 
