@@ -23,10 +23,6 @@ cd tu_repositorio
 
 ### 2. Instala dependencias
 
-pip install -r requirements.txt
-
-O manualmente:
-
 pip install langchain openai joblib pandas python-dotenv
 
 ### 3. Configura tu API Key de OpenAI
