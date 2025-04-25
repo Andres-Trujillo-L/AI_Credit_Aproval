@@ -82,3 +82,5 @@ Python 3.8+
 Desarrollado por Andrés Trujillo como parte de su portafolio de Data Science y Python Development.
 
 📫 [LinkedIn](https://www.linkedin.com/in/andres-trujillo-luzuriaga) | 🌐 [GitHub](https://github.com/Andres-Trujillo-L)
+
+## Si no quieres obtener una APIKey puedes usar el archivo de "Riesgo_bancario_credito.ipynb" para ver el funcionamiento y las estadisticas del modelo
