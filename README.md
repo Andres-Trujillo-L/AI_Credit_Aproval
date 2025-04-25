@@ -72,7 +72,7 @@ Agente_creditoIA/
 ├── data/
 │   ├── train.csv
 │   ├── test.csv
-└── requirements.txt           # librerías necesarias
+
 
 Requisitos del sistema
 Python 3.8+
